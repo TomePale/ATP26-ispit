@@ -1,3 +1,12 @@
+---
+title: Elementi User Experience Design-a
+author: Student ATP26
+date: 2026-01-22
+version: 1.0.0
+description: Pregled svih ključnih elemenata UX dizajna
+tags: [UX, elementi, research, visual design, usability, accessibility]
+---
+
 # Elements of User Experience Design
 
 [← Povratak na početnu](README.md) | [← History](history.md)

@@ -1,3 +1,12 @@
+---
+title: ATP26 Ispit - Početna stranica
+author: Student ATP26
+date: 2026-01-22
+version: 1.0.0
+description: Početna stranica GitHub Pages projekta o User Experience Design-u
+tags: [UX, dizajn, GitHub Pages, početna]
+---
+
 # Dobrodošli na ATP26 Ispit
 
 ## O projektu

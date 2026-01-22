@@ -1,6 +1,15 @@
+---
+title: Povijest User Experience Design-a
+author: Student ATP26
+date: 2026-01-22
+version: 1.0.0
+description: Povijest i razvoj UX dizajna od 1940-ih do danas
+tags: [UX, povijest, Don Norman, ergonomija]
+---
+
 # History of User Experience Design
 
-[← Povratak na početnu](user_experience.md) | [Elements →](elements.md)
+[← Povratak na početnu](README.md) | [Elements →](elements.md)
 
 ---
 

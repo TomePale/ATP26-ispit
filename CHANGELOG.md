@@ -1,3 +1,12 @@
+---
+title: Changelog
+author: Student ATP26
+date: 2026-01-22
+version: 1.0.0
+description: Popis svih promjena na projektu
+tags: [changelog, verzije, promjene]
+---
+
 # Changelog
 
 Sve značajne promjene na ovom projektu bit će dokumentirane u ovoj datoteci.
@@ -6,7 +15,6 @@ Sve značajne promjene na ovom projektu bit će dokumentirane u ovoj datoteci.
 
 ### Dodano
 - Kreirana glavna dokumentacija o User Experience Design-u
-- Dodana [user_experience.md](user_experience.md) s uvodom i osnovama UX dizajna
 - Dodana [history.md](history.md) s poviješću UX dizajna
 - Dodana [elements.md](elements.md) sa svim elementima UX dizajna:
   - Research

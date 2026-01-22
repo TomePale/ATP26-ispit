@@ -1,3 +1,12 @@
+---
+title: MIT Licenca
+author: Student ATP26
+date: 2026-01-22
+version: 1.0.0
+description: MIT licenca za projekt
+tags: [licenca, MIT, open-source]
+---
+
 # MIT License
 
 Copyright (c) 2026 Student ATP26
