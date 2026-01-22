@@ -149,3 +149,5 @@ graph TD
 ---
 
 **Navigacija:** :arrow_left: [Početna](index.md) | :clock3: [History →](history.md) | :jigsaw: [Elements →](elements.md)
+
+*Zadnje ažurirano: 22. siječnja 2026.*
