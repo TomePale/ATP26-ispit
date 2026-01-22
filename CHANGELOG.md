@@ -29,6 +29,7 @@ Sve značajne promjene na ovom projektu bit će dokumentirane u ovoj datoteci.
 - Kreirana tablica s informacijama o projektu
 - Dodani citati od Donald Normana
 - Implementirana navigacija između dokumenata
+- Dodan datum u README.md
 
 ### Tehnologije
 - Markdown za dokumentaciju
