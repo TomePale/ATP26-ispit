@@ -29,7 +29,7 @@ Kroz ovaj projekt možete saznati:
 
 | Dokument | Opis |
 |----------|------|
-| [User Experience Design](user_experience.md) | Uvod i osnove UX dizajna |
+| User Experience Design | Uvod i osnove UX dizajna |
 | [History](history.md) | Povijest i razvoj discipline |
 | [Elements](elements.md) | Svi elementi UX dizajna |
 

@@ -9,7 +9,7 @@ tags: [UX, povijest, Don Norman, ergonomija]
 
 # History of User Experience Design
 
-[← Povratak na početnu](README.md) | [Elements →](elements.md)
+[← Povratak na početnu](index.md) | [Elements →](elements.md)
 
 ---
 
@@ -88,4 +88,4 @@ Korisničko iskustvo postalo je pozitivni uvid za dizajnere početkom 1990-ih s 
 
 ---
 
-**Navigacija:** [← Početna](user_experience.md) | [Elements →](elements.md)
+**Navigacija:** [← Početna](index.md) | [Elements →](elements.md)

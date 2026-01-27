@@ -9,7 +9,7 @@ tags: [UX, elementi, research, visual design, usability, accessibility]
 
 # Elements of User Experience Design
 
-[← Povratak na početnu](README.md) | [← History](history.md)
+[← Povratak na početnu](index.md) | [← History](history.md)
 
 ---
 
@@ -164,4 +164,4 @@ Sustavna studija ciljnih korisnika i njihovih zahtjeva:
 
 ---
 
-**Navigacija:** [← Početna](user_experience.md) | [← History](history.md)
+**Navigacija:** [← Početna](index.md) | [← History](history.md)
